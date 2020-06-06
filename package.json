@@ -5,7 +5,7 @@
         "type": "git",
         "url": "https://github.com/imvrinda/react-signup-system.git"
     },
-    "license": "",
+    "license": "MIT",
     "scripts": {
         "build": "webpack --mode production",
         "start": "webpack-dev-server --open"
